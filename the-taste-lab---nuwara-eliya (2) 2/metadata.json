@@ -1,0 +1,6 @@
+{
+  "name": "The Taste Lab - Nuwara Eliya",
+  "description": "Mobile-first website for The Taste Lab in Nuwara Eliya featuring menu, direct phone & WhatsApp ordering, Google Maps directions, reviews, and table booking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
